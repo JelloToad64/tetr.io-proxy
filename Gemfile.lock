@@ -38,6 +38,7 @@ PLATFORMS
 
 DEPENDENCIES
   httparty
+  rack
   sinatra
 
 BUNDLED WITH
