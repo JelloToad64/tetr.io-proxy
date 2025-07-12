@@ -1,2 +1,2 @@
-require "./proxy"
+require './proxy'
 run Sinatra::Application
